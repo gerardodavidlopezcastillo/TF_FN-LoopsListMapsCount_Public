@@ -1,3 +1,8 @@
+# TF_FN-LoopsListMapsCount_Public
+## **Description Details:**
+
+This repository is a comprehensive guide on how to use loops, lists, maps, and the count meta argument in Terraform. From basics to advanced examples, learn to structure and manage your infrastructure configurations efficiently. Explore referencing values from lists and maps, dynamically create multiple EC2 instances with count, and generate detailed outputs with advanced loops. Perfect for those looking to delve into the power of Terraform for cloud infrastructure automation and deployment.
+
 # Terraform For Loops, Lists, Maps and Count Meta-Argument
 
 ## Step-00: Pre-requisite Note
